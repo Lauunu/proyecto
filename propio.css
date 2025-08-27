@@ -1,0 +1,101 @@
+@charset "utf-8";
+.bg_beige {
+    background-color: #F0E6DA;
+}
+.bg-fondo {
+    background-image: url(images/carrusel.jpg);
+    background-size: cover;
+    background-position: 0% 65%;
+    background-origin: border-box;
+    background-attachment: scroll;
+}
+.text-morado {
+    color: #8673B3;
+}
+
+
+.bg_azul {
+    background-color: #859FD2;
+}
+.bg_rosado {
+    background-color: #E8ADBA;
+}
+.bg_naranja {
+    background-color: #F46F4A;
+}
+.bg_amarillo {
+    background-color: #FDB648;
+}
+.bg_aguamarina   {
+    background-color: #71BCA3;
+}
+.bg_fondito {
+    background-image: url(images/backgroundx_Mesa%20de%20trabajo%201.jpg);
+    background-size: cover;
+}
+.bg_kefii {
+    background-image: url(barra2.jpg);
+    background-size: cover;
+    background-position: 0 0;
+}
+.text_font {
+}
+.text_title {
+    font-family: Poppins;
+}
+.text {
+}
+.bg_fonditorosa {
+    background-image: url(images/fondorosado.png);
+    background-size: cover;
+
+
+
+
+    background-position: 0;
+    background-position: 0% 160px;
+}
+.bg_morado {
+    background-color: #8673B3;
+}
+.bg_amarillooscuro {
+    background-color: #F8B661;
+}
+.bg_barra {
+    background-image: url(images/barra2.png);
+    background-size: cover;
+    background-position: 0 0%;
+}
+
+
+
+.bg_beigeoscuro {
+    background-color: #F7F3EE;
+}
+.text_light {
+}
+.my3 {
+}
+h1{
+	font-family: "Coiny", system-ui;
+}
+h2{
+	font-family: "Coiny", system-ui;
+}
+.text-red {
+    color: #EC6465;
+}
+.text-amarillo {
+    color: #F8B661;
+}
+.text-naranja {
+    color: #EF7A2C;
+}
+.text-azul {
+    color: #859FD2;
+}
+.btn-rojo {
+    background-color: #EC6465;
+}
+
+
